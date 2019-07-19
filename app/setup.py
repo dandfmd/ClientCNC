@@ -52,3 +52,6 @@ def install_dependencies():
             
     print('Setup finished')
     print('Start client with: python3 linclient.py')
+
+if __name__ == '__main__':
+    install_dependencies()
