@@ -27,7 +27,7 @@ The client can be understood as a g-code file queue container installed on a loc
 ### Live control using Chilipeppr
  In order to connect to a [Tiny-G](https://github.com/synthetos/TinyG) or [GRBL](https://github.com/grbl/grbl) CNC machine just plug the controller into the computer's USB port. The machine client will then run [Chilipeppr](http://chilipeppr.com/) `serial-port-json-server` to interface with the CNC controller. This file is stored externally in a folder named `chilipeppr_serial`.
 
- **Note:** Windows user might need to unblock the `serial-port-json-server` file.
+ **Note:** Windows users might need to unblock the `serial-port-json-server` file.
 
 ### USB hub
 You will need to place an empty text file named after your machine in the root directory of your external USB in order to be detected by the client. For example if your machine's name is OldShapeoko then the file should be named `OldShapeoko.txt`. Once inserted into the computer the client will delete and update all the `.nc` and `.txt` files in the root directory. We recommend using a dedicated USB stick to avoid problems.
