@@ -1,5 +1,7 @@
 # Machine Client
-Machine Client converts any device into a remote IOT CNC controller. It works alongside the Production Cloud Server.
+Machine Client converts any device into a remote IOT CNC controller.  works alongside the Production Cloud Server.
+
+hello
 
 ### Integration with the production server
 The client can be understood as a g-code file queue container installed on a local machine that can perform certain tasks remotely from the production server, such as:
