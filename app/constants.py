@@ -1,2 +1,2 @@
-SERVER_HOST="https://www.ingenierialinarand.com"
+SERVER_HOST="https://cloud.dfmd.mx"
 VERSION = 1.31

@@ -131,7 +131,7 @@ async def authenticate():
             utils.set_name(data["cnc_name"])
             utils.save_data()
         if 'cnc_name' in data: print('%s at: %s' % (data["cnc_name"],local_ip) )
-        else: print('Setup new client at: http://www.ingenierialinarand.com/new-cnc')
+        else: print('Setup new client at: http://cloud.dfmd.mx/new-cnc')
     else:
         if "solution" in data:
             if data["solution"]=="reconfigure":
