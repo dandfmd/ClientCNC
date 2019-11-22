@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 #
-# Copyright 2015,2016,2017,2018 Daniel Fern�ndez (daniel@dfmd.mx), Sa�l Pilatowsky (saul@dfmd.mx) 
+# Copyright 2015,2016,2017,2018 Daniel Fernandez (daniel@dfmd.mx), Saul Pilatowsky (saul@dfmd.mx) 
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Find us at: http://www.ingenierialinarand.com
+# Find us at: http://www.dfmd.mx
 
 def install_dependencies():
 

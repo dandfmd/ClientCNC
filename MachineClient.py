@@ -15,7 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# Find us at: http://www.ingenierialinarand.com
+# Find us at: http://www.dfmd.mx
 #
 # Wifi module based on:
 # Copyright (c) 2003-2005 by Peter Astrand <astrand@lysator.liu.se>
